@@ -41,7 +41,7 @@ b) funkcjê kwadratow¹ ax^2+bx+c
 c) funkcjê odwrotnie-potêgow¹ a/x^n
 Ka¿da z fukcji powinna przyjmowaæ parametry równania, natomiast zwracaæ powinna dwie listy - x i y, które nastêpnie bêdzie mo¿na wykreœliæ na wykresie
 
-18. Utwórz pêtlê, która w zale¿noœci od wartoœci licznika (i na podstawie rozwi¹zania zadania 3) bêdzie generowaæ ró¿ne zestawy danych oraz zapisywaæ je w katalogu na dysku komputera
+18. Utwórz pêtlê, która w zale¿noœci od wartoœci licznika (i na podstawie rozwi¹zania zadania 17) bêdzie generowaæ ró¿ne zestawy danych oraz zapisywaæ je w katalogu na dysku komputera
   
 19. Korzystaj¹c ze s³ownika, utwórz funkcjê, która bêdzie zwracaæ liczbê dni danego miesi¹ca w roku
 
