@@ -41,7 +41,7 @@ b) funkcjê kwadratow¹ ax^2+bx+c
 c) funkcjê odwrotnie-potêgow¹ a/x^n
 Ka¿da z fukcji powinna przyjmowaæ parametry równania, natomiast zwracaæ powinna dwie listy - x i y, które nastêpnie bêdzie mo¿na wykreœliæ na wykresie
 
-18. Utwórz pêtlê, która w zale¿noœci od wartoœci licznika (i na podstawie rozwi¹zania zadania 17) bêdzie generowaæ ró¿ne zestawy danych oraz zapisywaæ je w katalogu na dysku komputera
+18. Utwórz pêtlê, która w zale¿noœci od wartoœci licznika - (i na podstawie rozwi¹zania zadania 17. Licznik pêtli ma byæ argumentem funkcji z zadania 17) bêdzie generowaæ zestawy danych oraz zapisywaæ je w katalogu na dysku komputera w formie pliku tekstowego
   
 19. Korzystaj¹c ze s³ownika, utwórz funkcjê, która bêdzie zwracaæ liczbê dni danego miesi¹ca w roku
 
@@ -71,7 +71,7 @@ Ka¿da z fukcji powinna przyjmowaæ parametry równania, natomiast zwracaæ powinna 
 
 32. Utwórz funckjê, która na zadanej macierzy zapisze wzór ustalonych struktur (blok, ul, bochenek, ³ódka, œwiat³a uliczne, ¿aba, latarnia)
 
-33. Utwórz funkcjê zale¿n¹ od numeru wiersza i kolumny macierzy (i, j), która bêdzie obliczaæ liczbê "¿ywych" komórek s¹siaduj¹cych wzglêdem komórki (i, j)
+33. Korzystaj¹c z zadania 32, utwórz pust¹ macierz wymiaru 6x6, a nastêpnie zapisz nia niej strukturê bochenka. Utwórz funkcjê zale¿n¹ od numeru wiersza i kolumny macierzy (i, j), która bêdzie obliczaæ liczbê "¿ywych" komórek s¹siaduj¹cych wzglêdem komórki (i, j)
  
 34. Utwórz pust¹ klasê Figura, a nastêpnie utwórz dwie instancje tej klasy. SprawdŸ czy s¹ sobie równe
 
