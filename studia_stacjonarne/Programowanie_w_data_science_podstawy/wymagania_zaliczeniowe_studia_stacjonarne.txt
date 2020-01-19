@@ -1,110 +1,110 @@
-Termin oddania papierowej wersji rozwi¹zañ oraz linku do repozytorium w serwisie GitHub: 29.01.2020
-Do rozwi¹zania: wylosowane 12 zadañ + 3 projekty
+ï»¿Termin oddania papierowej wersji rozwiazan oraz linku do repozytorium w serwisie GitHub: 29.01.2020
+Do rozwiazania: wylosowane 12 zadan + 3 projekty
 
 ZADANIA:
-1. Napisz skrypt, który bêdzie wyœwietlaæ wszystkie kolejne dzielniki wprowadzonej liczby
+1. Napisz skrypt, ktÃ³ry bedzie wyswietlac wszystkie kolejne dzielniki wprowadzonej liczby
 
-2. Korzystaj¹c z pojêcia funkcji utwórz skrypt, który bêdzie mia³ mo¿liwoœæ zamiany temperatury pomiêdzy skalami Celsjusza i Fahrenheita (w obie strony). C = (F-32)x(5/9), F = (C*9/5)+32
+2. Korzystajac z pojecia funkcji utwÃ³rz skrypt, ktÃ³ry bedzie mial moÅ¼liwosc zamiany temperatury pomiedzy skalami Celsjusza i Fahrenheita (w obie strony). C = (F-32)x(5/9), F = (C*9/5)+32
 
-3. Utwórz skrypt do zamiany kilometrów na mile i na odwrót
+3. UtwÃ³rz skrypt do zamiany kilometrÃ³w na mile i na odwrÃ³t
 
-4. Utwórz skrypt do znajdowania miejsc zerowych trójmianu kwadratowego x1 = (-b+sqrt(b*b-4*a*c))/(2*a)
+4. UtwÃ³rz skrypt do znajdowania miejsc zerowych trÃ³jmianu kwadratowego x1 = (-b+sqrt(b*b-4*a*c))/(2*a)
 x2 = (-b-sqrt(b*b-4*a*c))/(2*a)
 
-5. Utwórz skrypt, który bêdzie komunikowaæ, czy wprowadzona liczba jest dodatnia czy nie
+5. UtwÃ³rz skrypt, ktÃ³ry bedzie komunikowac, czy wprowadzona liczba jest dodatnia czy nie
 
-6. Utwórz skrypt dodaj¹cy u³amki zwyk³e
+6. UtwÃ³rz skrypt dodajacy ulamki zwykle
 
-7. Utwórz skrypt z interfejsem tekstowym, który pobierze od u¿ytkownika zdanie i wyœwietli w kolejnych wierszach litery tego zdania w odwróconej kolejnoœci
+7. UtwÃ³rz skrypt z interfejsem tekstowym, ktÃ³ry pobierze od uÅ¼ytkownika zdanie i wyswietli w kolejnych wierszach litery tego zdania w odwrÃ³conej kolejnosci
  
-8. W klasie przeprowadzono sprawdzian, za który uczniowie mogli otrzymaæ maksymalnie 40 punktów. Skala ocen w szkole jest nastêpuj¹ca: 0-39% - ndst, 40-49% - dop, 50-69% - dst, 70-84% - db, 85-99% - bdb, 100% - cel. Utwórz skrypt z interfejsem tekstowym, który na podstawie podanej liczby punktów ze sprawdzianu wyœwietli ocenê jaka siê nale¿y (skorzystaj z konstrukcji if, elif, else)
+8. W klasie przeprowadzono sprawdzian, za ktÃ³ry uczniowie mogli otrzymac maksymalnie 40 punktÃ³w. Skala ocen w szkole jest nastepujaca: 0-39% - ndst, 40-49% - dop, 50-69% - dst, 70-84% - db, 85-99% - bdb, 100% - cel. UtwÃ³rz skrypt z interfejsem tekstowym, ktÃ³ry na podstawie podanej liczby punktÃ³w ze sprawdzianu wyswietli ocene jaka sie naleÅ¼y (skorzystaj z konstrukcji if, elif, else)
 
-9. Utwórz skrypt z interfejsem tekstowym, który wyliczy sumê n kolejnych liczb (u¿ytkownik podaje pierwsz¹ i ostatni¹ liczbê sumy). Uwaga – w zadaniu nale¿y zbudowaæ funkcjê w³asn¹ realizuj¹c¹ dane zadanie
+9. UtwÃ³rz skrypt z interfejsem tekstowym, ktÃ³ry wyliczy sume n kolejnych liczb (uÅ¼ytkownik podaje pierwsza i ostatnia liczbe sumy). Uwaga - w zadaniu naleÅ¼y zbudowac funkcje wlasna realizujaca dane zadanie
 
-10. Utwórz skrypt z interfejsem tekstowym, który przyjmie od u¿ytkownika ile elementów chce on wprowadziæ do listy, przyjmie te elementy, a nastêpnie wyliczy: œredni¹ i odchylenie standardowe œredniej. Wykonaæ zadanie na dwa sposoby: poprzez utworzenie funkcji w³asnych obliczaj¹cych œredni¹ i odchylenie standardowe oraz korzystaj¹c z gotowych funkcji np. z pakietu numpy
+10. UtwÃ³rz skrypt z interfejsem tekstowym, ktÃ³ry przyjmie od uÅ¼ytkownika ile elementÃ³w chce on wprowadzic do listy, przyjmie te elementy, a nastepnie wyliczy: srednia i odchylenie standardowe sredniej. Wykonac zadanie na dwa sposoby: poprzez utworzenie funkcji wlasnych obliczajacych srednia i odchylenie standardowe oraz korzystajac z gotowych funkcji np. z pakietu numpy
 
-11. Utwórz skrypt z interfejsem tekstowym który obliczy silniê od danego argumentu. Wykonaæ zadanie na dwa sposoby – iteracyjnie i rekurencyjnie
+11. UtwÃ³rz skrypt z interfejsem tekstowym ktÃ³ry obliczy silnie od danego argumentu. Wykonac zadanie na dwa sposoby - iteracyjnie i rekurencyjnie
 
-12. Utworzyæ skrypt z interfejsem tekstowym obliczaj¹cy n-ty element ci¹gu Fibonacciego – wykonaæ zadanie iteracyjnie i rekurencyjnie
+12. Utworzyc skrypt z interfejsem tekstowym obliczajacy n-ty element ciagu Fibonacciego - wykonac zadanie iteracyjnie i rekurencyjnie
  
-13. Utworzyæ skrypt z interfejsem tekstowym obliczaj¹cy symbol Newtona n po k. Utworzyæ funkcjê, która bêdzie wywo³ywaæ inn¹ funkcjê
+13. Utworzyc skrypt z interfejsem tekstowym obliczajacy symbol Newtona n po k. Utworzyc funkcje, ktÃ³ra bedzie wywolywac inna funkcje
 
-14. Utworzyæ skrypt z interfejsem tekstowym, który bêdzie zwracaæ wiersz n-tego rzêdu z trójk¹ta Pascala (u¿ytkownik podaje n, program zwraca odpowiadaj¹cy wiersz trójk¹ta)
+14. Utworzyc skrypt z interfejsem tekstowym, ktÃ³ry bedzie zwracac wiersz n-tego rzedu z trÃ³jkata Pascala (uÅ¼ytkownik podaje n, program zwraca odpowiadajacy wiersz trÃ³jkata)
 
-15. Utwórz skrypt, w którym zamieœcisz 3 listy danych, zawieraj¹ce po 14 temperatur dla 3 wybranych miast na kolejne 14 dni oraz utwórz wykres z tych danych. Twój wykres powinien mieæ 3 linie z zaznaczonymi punktami danych za pomoc¹ ró¿nych znaczników, tytu³, opisane osie oraz legendê
+15. UtwÃ³rz skrypt, w ktÃ³rym zamiescisz 3 listy danych, zawierajace po 14 temperatur dla 3 wybranych miast na kolejne 14 dni oraz utwÃ³rz wykres z tych danych. TwÃ³j wykres powinien miec 3 linie z zaznaczonymi punktami danych za pomoca rÃ³Å¼nych znacznikÃ³w, tytul, opisane osie oraz legende
 
-16. Utwórz funkcjê w³asn¹, która jako argument przyjmowaæ bêdzie listê argumentów i wartoœci, a jako wynik bêdzie wyœwietlaæ sformatowany wykres (stosowny zakres, opis, kolory, legenda)
+16. UtwÃ³rz funkcje wlasna, ktÃ³ra jako argument przyjmowac bedzie liste argumentÃ³w i wartosci, a jako wynik bedzie wyswietlac sformatowany wykres (stosowny zakres, opis, kolory, legenda)
 
-17. Utwórz funkcjê, która bêdzie generowaæ listy danych do wykreœlenia w oparciu o:
-a) fukcjê liniow¹ ax+b
-b) funkcjê kwadratow¹ ax^2+bx+c
-c) funkcjê odwrotnie-potêgow¹ a/x^n
-Ka¿da z fukcji powinna przyjmowaæ parametry równania, natomiast zwracaæ powinna dwie listy - x i y, które nastêpnie bêdzie mo¿na wykreœliæ na wykresie
+17. UtwÃ³rz funkcje, ktÃ³ra bedzie generowac listy danych do wykreslenia w oparciu o:
+a) fukcje liniowa ax+b
+b) funkcje kwadratowa ax^2+bx+c
+c) funkcje odwrotnie-potegowa a/x^n
+KaÅ¼da z fukcji powinna przyjmowac parametry rÃ³wnania, natomiast zwracac powinna dwie listy - x i y, ktÃ³re nastepnie bedzie moÅ¼na wykreslic na wykresie
 
-18. Utwórz pêtlê, która w zale¿noœci od wartoœci licznika - (i na podstawie rozwi¹zania zadania 17. Licznik pêtli ma byæ argumentem funkcji z zadania 17) bêdzie generowaæ zestawy danych oraz zapisywaæ je w katalogu na dysku komputera w formie pliku tekstowego
+18. UtwÃ³rz petle, ktÃ³ra w zaleÅ¼nosci od wartosci licznika - (i na podstawie rozwiazania zadania 17. Licznik petli ma byc argumentem funkcji z zadania 17) bedzie generowac zestawy danych oraz zapisywac je w katalogu na dysku komputera w formie pliku tekstowego
   
-19. Korzystaj¹c ze s³ownika, utwórz funkcjê, która bêdzie zwracaæ liczbê dni danego miesi¹ca w roku
+19. Korzystajac ze slownika, utwÃ³rz funkcje, ktÃ³ra bedzie zwracac liczbe dni danego miesiaca w roku
 
-20. Korzystaj¹c ze s³ownika, utwórz funkcjê, która bêdzie zwracaæ t³umaczenia nazw miesiêcy z jêzyka polskiego na angielski
+20. Korzystajac ze slownika, utwÃ³rz funkcje, ktÃ³ra bedzie zwracac tlumaczenia nazw miesiecy z jezyka polskiego na angielski
 
-21. Utwórz fukcjê, która jako argument bêdzie przyjmowaæ listê liczb zmiennoprzecinkowych, a jej wynikiem bêdzie œrednia arytmetyczna. Porównaj jej wynik z wynikiem fukcji mean z pakietu numpy
+21. UtwÃ³rz fukcje, ktÃ³ra jako argument bedzie przyjmowac liste liczb zmiennoprzecinkowych, a jej wynikiem bedzie srednia arytmetyczna. PorÃ³wnaj jej wynik z wynikiem fukcji mean z pakietu numpy
 
-22. Utwórz fukcjê, która jako argument bêdzie przyjmowaæ listê liczb zmiennoprzecinkowych, a jej wynikiem bêdzie mediana (skorzystaj z metody sort dzia³aj¹cej na standardowych listach)
+22. UtwÃ³rz fukcje, ktÃ³ra jako argument bedzie przyjmowac liste liczb zmiennoprzecinkowych, a jej wynikiem bedzie mediana (skorzystaj z metody sort dzialajacej na standardowych listach)
 
-23. Utwórz funkcjê, która jako argument bêdzie przyjmowaæ listê liczb zmiennoprzecinkowych, a jej wynikiem bêdzie dominanta (moda). Skorzystaj z obiektu Counter i jego metody most_common z pakietu collections
+23. UtwÃ³rz funkcje, ktÃ³ra jako argument bedzie przyjmowac liste liczb zmiennoprzecinkowych, a jej wynikiem bedzie dominanta (moda). Skorzystaj z obiektu Counter i jego metody most_common z pakietu collections
 
-24. Utwórz fukcjê, która jako argument bêdzie przyjmowaæ listê liczb zmiennoprzecinkowych, a jej wynikiem bêdzie odchylenie standardowe œredniej
+24. UtwÃ³rz fukcje, ktÃ³ra jako argument bedzie przyjmowac liste liczb zmiennoprzecinkowych, a jej wynikiem bedzie odchylenie standardowe sredniej
 
-25. Utwórz fukcjê, która jako argument bêdzie przyjmowaæ listê liczb zmiennoprzecinkowych, a jej wynikiem bêdzie drugi moment centralny (wariancja)
+25. UtwÃ³rz fukcje, ktÃ³ra jako argument bedzie przyjmowac liste liczb zmiennoprzecinkowych, a jej wynikiem bedzie drugi moment centralny (wariancja)
 
-26. Utwórz funkcjê, która jako argument bêdzie przyjmowaæ listê liczb zmiennoprzecinkowych, a jej wynikiem bêdzie trzeci moment centralny (skoœnoœæ)
+26. UtwÃ³rz funkcje, ktÃ³ra jako argument bedzie przyjmowac liste liczb zmiennoprzecinkowych, a jej wynikiem bedzie trzeci moment centralny (skosnosc)
 
-27. Utwórz funkcjê, która jako argument bêdzie przyjmowaæ listê liczb zmiennoprzecinkowych, a jej wynikiem bêdzie czwarty moment centralny (kurtoza)
+27. UtwÃ³rz funkcje, ktÃ³ra jako argument bedzie przyjmowac liste liczb zmiennoprzecinkowych, a jej wynikiem bedzie czwarty moment centralny (kurtoza)
 
-28. Utwórz funkcjê, która jako argument bêdzie przyjmowaæ dwie listy o równej liczbie elementów, a jej wynikiem bêdzie wspó³czynnik korelacji
+28. UtwÃ³rz funkcje, ktÃ³ra jako argument bedzie przyjmowac dwie listy o rÃ³wnej liczbie elementÃ³w, a jej wynikiem bedzie wspÃ³lczynnik korelacji
 
-29. Utwórz funkcjê, która jako argument bêdzie przyjmowaæ dwie listy o równej liczbie elementów, a jej wynikiem bêd¹ wspó³czynniki regresji liniowej
+29. UtwÃ³rz funkcje, ktÃ³ra jako argument bedzie przyjmowac dwie listy o rÃ³wnej liczbie elementÃ³w, a jej wynikiem beda wspÃ³lczynniki regresji liniowej
 
-30. Wynegeruj listê 1000 liczb losowych o rozk³adzie normalnym. Wykreœl histogram oraz œredni¹, medianê, dominantê, odchylenie standardowe, wariancjê, skoœnoœæ i kurtozê
+30. Wynegeruj liste 1000 liczb losowych o rozkladzie normalnym. Wykresl histogram oraz srednia, mediane, dominante, odchylenie standardowe, wariancje, skosnosc i kurtoze
 
-31. Korzystaj¹c z instrukcji np.random.choice oraz reshape z pakietu numpy stworzyæ funkcjê generuj¹ macierz kwadratow¹ stopnia N wype³nion¹ wartoœciami 0 i 255 w losowy sposób
+31. Korzystajac z instrukcji np.random.choice oraz reshape z pakietu numpy stworzyc funkcje generuja macierz kwadratowa stopnia N wypelniona wartosciami 0 i 255 w losowy sposÃ³b
 
-32. Utwórz funckjê, która na zadanej macierzy zapisze wzór ustalonych struktur (blok, ul, bochenek, ³ódka, œwiat³a uliczne, ¿aba, latarnia)
+32. UtwÃ³rz funckje, ktÃ³ra na zadanej macierzy zapisze wzÃ³r ustalonych struktur (blok, ul, bochenek, lÃ³dka, swiatla uliczne, Å¼aba, latarnia)
 
-33. Korzystaj¹c z zadania 32, utwórz pust¹ macierz wymiaru 6x6, a nastêpnie zapisz nia niej strukturê bochenka. Utwórz funkcjê zale¿n¹ od numeru wiersza i kolumny macierzy (i, j), która bêdzie obliczaæ liczbê "¿ywych" komórek s¹siaduj¹cych wzglêdem komórki (i, j)
+33. Korzystajac z zadania 32, utwÃ³rz pusta macierz wymiaru 6x6, a nastepnie zapisz nia niej strukture bochenka. UtwÃ³rz funkcje zaleÅ¼na od numeru wiersza i kolumny macierzy (i, j), ktÃ³ra bedzie obliczac liczbe "Å¼ywych" komÃ³rek sasiadujacych wzgledem komÃ³rki (i, j)
  
-34. Utwórz pust¹ klasê Figura, a nastêpnie utwórz dwie instancje tej klasy. SprawdŸ czy s¹ sobie równe
+34. UtwÃ³rz pusta klase Figura, a nastepnie utwÃ³rz dwie instancje tej klasy. Sprawdz czy sa sobie rÃ³wne
 
-35. Utwórz klasê Kwadrat z konstruktorem ustalaj¹cym jego bok oraz metodami: wyœwietlaj¹cymi wartoœæ tego boku, obliczaj¹cymi pole i obwód figury
+35. UtwÃ³rz klase Kwadrat z konstruktorem ustalajacym jego bok oraz metodami: wyswietlajacymi wartosc tego boku, obliczajacymi pole i obwÃ³d figury
 
-36. Utwórz klasê Prostok¹t, a nastêpnie na jej podstawie (korzystaj¹c z mechanizmu dziedziczenia) utwórz klasê Kwadrat
+36. UtwÃ³rz klase Prostokat, a nastepnie na jej podstawie (korzystajac z mechanizmu dziedziczenia) utwÃ³rz klase Kwadrat
 
 PROJEKTY:
-1. Utwórz program do nauki obcych s³ówek. Program powinien posiadaæ interfejs tektowy, w którym u¿ytkownik wskazuje plik ze s³ówkami do nauki. Nastêpnie program importuje dane i wprowadza je do s³ownika. W kolejnym etapie program przepytuje uzytkownika z wiedzy zawartej w pliku ze s³ówkami. Program powinien wyliczaæ za ile dni u¿ytkownik powinien powtórzyæ naukê - jeœli odpowiedzia³ dobrze - za 7 dni, jeœli Ÿle - za 0 dni. Program tworzy nowy plik, który bêdzie zawieraæ informacje na temat daty ostatniej sesji nauki, id przerobionych s³ówek oraz za ile dni nale¿y odbyæ powtórkê.
-Program dodatkowo ma importowaæ log z poprzedniej sesji aby odpytywaæ u¿ytkownika z zaplanowanej powtórki.
+1. UtwÃ³rz program do nauki obcych slÃ³wek. Program powinien posiadac interfejs tektowy, w ktÃ³rym uÅ¼ytkownik wskazuje plik ze slÃ³wkami do nauki. Nastepnie program importuje dane i wprowadza je do slownika. W kolejnym etapie program przepytuje uzytkownika z wiedzy zawartej w pliku ze slÃ³wkami. Program powinien wyliczac za ile dni uÅ¼ytkownik powinien powtÃ³rzyc nauke - jesli odpowiedzial dobrze - za 7 dni, jesli zle - za 0 dni. Program tworzy nowy plik, ktÃ³ry bedzie zawierac informacje na temat daty ostatniej sesji nauki, id przerobionych slÃ³wek oraz za ile dni naleÅ¼y odbyc powtÃ³rke.
+Program dodatkowo ma importowac log z poprzedniej sesji aby odpytywac uÅ¼ytkownika z zaplanowanej powtÃ³rki.
 
-2. Wykorzystuj¹c rozwi¹zania powy¿szych zadañ utwórz symulacjê automatu komórkowego - gry w ¿ycie (game of life). Gra w ¿ycie stanowi ciekawy problem sieci komórek, który mo¿na opisaæ za pomoc¹ macierzy. Scena symulacji sk³ada siê z NxN pól, które mog¹ przyjmowaæ jeden z dwóch stanów - ¿ywy lub martwy. Symulacja sk³ada siê z nastêpuj¹cych po sobie kroków, aktualizuj¹cych stany komórek sceny. W ka¿dym kroku sprawdzany jest stan danej komórki oraz jej s¹siadów. W nowym kroku komórka mo¿e staæ siê ¿ywa lub martwa w zale¿noœci przyjêtych regu³. W projekcie korzystamy z regu³ Conwaya:
-- komórka umiera: jeœli komórka jest ¿ywa to umrze jeœli jest w "przeludnionym" otoczeniu, tzn. posiada 4 lub wiêcej ¿ywych s¹siadów lub jeœli jest w opustosza³ym otoczeniu - jeœli komórka ma mniej ni¿ 1 ¿ywego s¹siada to równie¿ umiera.
-- komórka rodzi siê: jeœli komórka jest martwa, stanie siê ¿ywa jeœli ma dok³adnie 3 ¿ywych s¹siadów
-- komórka nie zmienia stanu: pozosta³e przypadk, czyli komórka pozostaje ¿ywa je¿eli ma dok³adnie dwóch lub trzech ¿ywych s¹siadów, komórka pozostaje martwa je¿eli wokó³ niej jest dowolna sytuacja poza trzema ¿ywymi s¹siadami.
-Utworzony program powinien posiadaæ:
-- Mo¿liwoœæ generowania pocz¹tkowej sceny
-- Mo¿liwoœæ ustawiania na scenie pewnych szczególnych struktur (szybowiec, ceg³a, bochenek)
-- Funkcjê obliczaj¹c¹ liczbê ¿ywych s¹siadów dla danej komórki
-- Funckjê obliczaj¹c¹ nowy stan sceny
-- Funckjê generuj¹c¹ animacjê wyników symulacji.
+2. Wykorzystujac rozwiazania powyÅ¼szych zadan utwÃ³rz symulacje automatu komÃ³rkowego - gry w Å¼ycie (game of life). Gra w Å¼ycie stanowi ciekawy problem sieci komÃ³rek, ktÃ³ry moÅ¼na opisac za pomoca macierzy. Scena symulacji sklada sie z NxN pÃ³l, ktÃ³re moga przyjmowac jeden z dwÃ³ch stanÃ³w - Å¼ywy lub martwy. Symulacja sklada sie z nastepujacych po sobie krokÃ³w, aktualizujacych stany komÃ³rek sceny. W kaÅ¼dym kroku sprawdzany jest stan danej komÃ³rki oraz jej sasiadÃ³w. W nowym kroku komÃ³rka moÅ¼e stac sie Å¼ywa lub martwa w zaleÅ¼nosci przyjetych regul. W projekcie korzystamy z regul Conwaya:
+- komÃ³rka umiera: jesli komÃ³rka jest Å¼ywa to umrze jesli jest w "przeludnionym" otoczeniu, tzn. posiada 4 lub wiecej Å¼ywych sasiadÃ³w lub jesli jest w opustoszalym otoczeniu - jesli komÃ³rka ma mniej niÅ¼ 1 Å¼ywego sasiada to rÃ³wnieÅ¼ umiera.
+- komÃ³rka rodzi sie: jesli komÃ³rka jest martwa, stanie sie Å¼ywa jesli ma dokladnie 3 Å¼ywych sasiadÃ³w
+- komÃ³rka nie zmienia stanu: pozostale przypadk, czyli komÃ³rka pozostaje Å¼ywa jeÅ¼eli ma dokladnie dwÃ³ch lub trzech Å¼ywych sasiadÃ³w, komÃ³rka pozostaje martwa jeÅ¼eli wokÃ³l niej jest dowolna sytuacja poza trzema Å¼ywymi sasiadami.
+Utworzony program powinien posiadac:
+- MoÅ¼liwosc generowania poczatkowej sceny
+- MoÅ¼liwosc ustawiania na scenie pewnych szczegÃ³lnych struktur (szybowiec, cegla, bochenek)
+- Funkcje obliczajaca liczbe Å¼ywych sasiadÃ³w dla danej komÃ³rki
+- Funckje obliczajaca nowy stan sceny
+- Funckje generujaca animacje wynikÃ³w symulacji.
 
-3. Utwórz klasê Vector2D. Wykorzystaj ca³¹ wiedzê jak¹ posiadasz na temat wektorów na p³aszczyŸnie. Zdefiniuj wszystkie znane Ci operacje.
+3. UtwÃ³rz klase Vector2D. Wykorzystaj cala wiedze jaka posiadasz na temat wektorÃ³w na plaszczyznie. Zdefiniuj wszystkie znane Ci operacje.
 
-4. Utwórz klasê Vector3D. Wykorzystaj ca³¹ wiedzê jak¹ posiadasz na temat wektorów w przestrzeni. Zdefiniuj wszystkie znane Ci operacje.
+4. UtwÃ³rz klase Vector3D. Wykorzystaj cala wiedze jaka posiadasz na temat wektorÃ³w w przestrzeni. Zdefiniuj wszystkie znane Ci operacje.
 
-5. Utwórz klasê Martix. Wykorzystaj ca³¹ wiedzê jak¹ posiadasz na temat macierzy. Zdefiniuj wszystkie znane Ci operacje.
+5. UtwÃ³rz klase Martix. Wykorzystaj cala wiedze jaka posiadasz na temat macierzy. Zdefiniuj wszystkie znane Ci operacje.
 
-6. Utwórz klasê Perceptron zgodnie z modelem McCullocha-Pittsa. PrzeprowadŸ eksperyment uczenia neuronu - niech rozpoznaje czy wybrany punkt o wspó³rzêdnych x, y znajduje siê powy¿ej lub poni¿ej zadanej prostej.
+6. UtwÃ³rz klase Perceptron zgodnie z modelem McCullocha-Pittsa. Przeprowadz eksperyment uczenia neuronu - niech rozpoznaje czy wybrany punkt o wspÃ³lrzednych x, y znajduje sie powyÅ¼ej lub poniÅ¼ej zadanej prostej.
 
-7. Zapoznaj siê z danymi dotycz¹cymi ofiar katastrofy Titanica. W oparciu o artyku³ zawarty na stronie: https://stackabuse.com/pandas-library-for-data-visualization-in-python/ wykonaj analizê pliku z danymi.
+7. Zapoznaj sie z danymi dotyczacymi ofiar katastrofy Titanica. W oparciu o artykul zawarty na stronie: https://stackabuse.com/pandas-library-for-data-visualization-in-python/ wykonaj analize pliku z danymi. Przedstaw dane w postaci tabeli, sporzadz histogram wieku ofiar, odpowiedz na pytanie - co moglo miec wplyw na przeÅ¼ycie pasaÅ¼erÃ³w (plec, wiek, status posleczny na podstawie klasy biletu).
 
-Pomocne materia³y:
+Pomocne materialy:
 Daniel Shiffman - "The nature of code" https://natureofcode.com/
 Amit Saha - "Doing math with python" https://nostarch.com/doingmathwithpython
-Mahesh Venkitachalam - "Python. 14 twórczych projektów dla dociekliwych programistów" https://helion.pl/ksiazki/python-14-tworczych-projektow-dla-dociekliwych-programistow-mahesh-venkitachalam,pythtp.htm#format/e
+Mahesh Venkitachalam - "Python. 14 twÃ³rczych projektÃ³w dla dociekliwych programistÃ³w" https://helion.pl/ksiazki/python-14-tworczych-projektow-dla-dociekliwych-programistow-mahesh-venkitachalam,pythtp.htm#format/e
